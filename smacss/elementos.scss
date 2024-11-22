@@ -1,0 +1,15 @@
+.produto { /* bloco */
+
+    &-imagem { /* elemento */
+    width: 100%;
+    }
+
+    &-nome { /* elemento */
+        font-size: 1.2em;
+        margin: 8px 0;
+    }
+
+    &-descricao { /* elemento */
+        color: gray;
+    }
+}

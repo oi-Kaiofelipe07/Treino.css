@@ -1,0 +1,14 @@
+.produto { /* bloco */ }
+
+.produto-imagem { /* elemento */
+width: 100%;
+}
+.produto-nome { /* elemento */
+font-size: 1.2em;  
+margin: 8px 0;
+}
+.produto-descricao { /* elemento */
+color: gray;
+}
+
+/*# sourceMappingURL=elementos.css.map */
